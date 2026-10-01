@@ -22,6 +22,7 @@ I design and build apps, games, and original worlds—from interface and code to
 **Languages & web**
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=252321)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=252321)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,13 +60,29 @@ I design and build apps, games, and original worlds—from interface and code to
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge)
 ![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-2B3B90?style=for-the-badge)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![QIDI Q2](https://img.shields.io/badge/QIDI_Q2_3D_Printer-4D4D4D?style=for-the-badge)
+
+**Development · publishing**
+
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
 **AI tools · environment**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge)
+![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-CC785C?style=for-the-badge)
+![Claude Cowork](https://img.shields.io/badge/Claude_Cowork-CC785C?style=for-the-badge)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-252321?style=for-the-badge&logo=openai&logoColor=white)
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-252321?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=252321)
+![Omarchy](https://img.shields.io/badge/Omarchy-252321?style=for-the-badge)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 作品 · Selected work
