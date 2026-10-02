@@ -15,7 +15,7 @@ I design and build apps, games, and original worlds—from interface and code to
 
 [![GitHub](https://img.shields.io/badge/GitHub-cstljuan-252321?style=for-the-badge&logo=github&logoColor=FAF7F2)](https://github.com/cstljuan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-juancstl-BB2F24?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juancstl/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-juancstl.com-E64A3B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juancstl.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-juancstl.dev-E64A3B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juancstl.dev/)
 
 ## 技術 · Tools & technologies
 
