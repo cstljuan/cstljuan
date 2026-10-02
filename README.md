@@ -5,7 +5,7 @@
 **Designer · Developer · Creative technologist**<br>
 I design and build apps, games, and original worlds—from interface and code to character and brand.
 
-[Portfolio](https://juancstl.com/) · [LinkedIn](https://www.linkedin.com/in/juancstl/) · [Email](mailto:juancstlseg@gmail.com)
+[Portfolio](https://juancstl.dev/) · [LinkedIn](https://www.linkedin.com/in/juancstl/) · [Email](mailto:juancstlseg@gmail.com)
 
 </div>
 
