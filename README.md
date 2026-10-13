@@ -29,7 +29,7 @@ I design and build apps, games, and original worlds—from interface and code to
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frontend & runtime**
+**Frontend**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
@@ -53,8 +53,6 @@ I design and build apps, games, and original worlds—from interface and code to
 
 ![UI and UX](https://img.shields.io/badge/UI%2FUX-BB2F24?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![LINE Seed JP](https://img.shields.io/badge/LINE_Seed_JP-06C755?style=for-the-badge)
-![Space Mono](https://img.shields.io/badge/Space_Mono-252321?style=for-the-badge)
 ![Adobe Creative Suite](https://img.shields.io/badge/Adobe_Creative_Suite-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
 ![Aseprite](https://img.shields.io/badge/Aseprite-7D929E?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
@@ -74,8 +72,6 @@ I design and build apps, games, and original worlds—from interface and code to
 **AI tools · environment**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge)
-![Claude Desktop](https://img.shields.io/badge/Claude_Desktop-CC785C?style=for-the-badge)
-![Claude Cowork](https://img.shields.io/badge/Claude_Cowork-CC785C?style=for-the-badge)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Codex](https://img.shields.io/badge/Codex-252321?style=for-the-badge&logo=openai&logoColor=white)
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-252321?style=for-the-badge)
