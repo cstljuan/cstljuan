@@ -34,6 +34,7 @@ I design and build apps, games, and original worlds—from interface and code to
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Raylib](https://img.shields.io/badge/Raylib-8A3030?style=for-the-badge)
@@ -58,7 +59,8 @@ I design and build apps, games, and original worlds—from interface and code to
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=for-the-badge)
 ![Clip Studio Paint](https://img.shields.io/badge/Clip_Studio_Paint-2B3B90?style=for-the-badge)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Procreate](https://img.shields.io/badge/Procreate-1BB2A8?style=for-the-badge)
+![Adobe Certified (5x)](https://img.shields.io/badge/Adobe_Certified-5x-DA1F26?style=for-the-badge&logo=adobe&logoColor=white)
 ![QIDI Q2](https://img.shields.io/badge/QIDI_Q2_3D_Printer-4D4D4D?style=for-the-badge)
 
 **Development · publishing**
@@ -69,6 +71,11 @@ I design and build apps, games, and original worlds—from interface and code to
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
+**Backend · deployment**
+
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=252321)
+
 **AI tools · environment**
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-CC785C?style=for-the-badge)
@@ -76,12 +83,19 @@ I design and build apps, games, and original worlds—from interface and code to
 ![Codex](https://img.shields.io/badge/Codex-252321?style=for-the-badge&logo=openai&logoColor=white)
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-252321?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=252321)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Omarchy](https://img.shields.io/badge/Omarchy-252321?style=for-the-badge)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 作品 · Selected work
+
+### [Amulith](https://github.com/cstljuan/amulith)
+
+**A story-driven game about a living gem, six spirits, and the cost of choosing who gets to shape a forest.** Amulith began as a Knight Hacks IX project built around a local language model on a borrowed NVIDIA Jetson. Its portable browser edition now runs without the Jetson, with 696 authored dialogue beats, branching Bloom and Blight routes, and an offline-ready PWA.
+
+[Play the portable edition](https://cstljuan.github.io/amulith/story/play/) · [Project and case study](https://cstljuan.github.io/amulith/story/) · [Source](https://github.com/cstljuan/amulith)
 
 ### [Seams](https://github.com/cstljuan/Seams)
 
@@ -96,17 +110,6 @@ Built with a team at ShellHacks 2026 for the Sperry Tech GridLock challenge.
 | Code | Design | 3D + physical |
 |:--|:--|:--|
 | Web apps, interactive experiences, and games | Interfaces, visual identities, illustration, and pixel art | Original characters, 3D models, and printed objects |
-
-## GitHub activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=cstljuan&show_icons=true&hide_title=true&hide_border=true&bg_color=FAF7F2&title_color=BB2F24&icon_color=BB2F24&text_color=252321&ring_color=BB2F24&count_private=false" alt="Juan's public GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstljuan&layout=compact&hide_border=true&bg_color=FAF7F2&title_color=BB2F24&text_color=252321" alt="Most used languages in public repositories" />
-
-**787 contributions in the last year.** · [View GitHub profile](https://github.com/cstljuan)
-
-</div>
 
 ---
 
